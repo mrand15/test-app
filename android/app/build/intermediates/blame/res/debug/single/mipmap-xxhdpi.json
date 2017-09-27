@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/matthewrandle/Documents/Projects/test-app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
         "source": "/Users/matthewrandle/Documents/Projects/mtg/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }

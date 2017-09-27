@@ -3,12 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jar="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_6cc080295381a16887579d5b5696f70dca69450b.jar" />
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_80452f894d27270e529464280ed045a7b4b5ef73.jar" />
     </item>
     <item
         is-multidex="false"
@@ -17,25 +17,25 @@
         optimize="true"
         revision="23.0.1"
         sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_ec9fd0fc16a0f8829f1903dbc9e71d2c4203b1c0.jar" />
+        <dex dex="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_ec9fd0fc16a0f8829f1903dbc9e71d2c4203b1c0.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/exploded-aar/mtg/react-native-camera/unspecified/jars/classes.jar"
+        jar="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/exploded-aar/mtg/react-native-tesseract-ocr/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="a9161da891dd3c9ae10d21b1a1f9f1b0ff683cfe">
-        <dex dex="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/pre-dexed/debug/mtg-react-native-camera-unspecified_31d57b124ad06d7ce4c0085addd5c1d6b05e4f16.jar" />
+        sha1="aa4c10f45d0d890e379dc42a6299ede6b8ff210e">
+        <dex dex="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/pre-dexed/debug/mtg-react-native-tesseract-ocr-unspecified_eefc0d089fd13c806830845be0d6bd27059e53e1.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jar="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
-        <dex dex="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_4e6d7a3fab46111e7063b2044ba6972ce3df75ce.jar" />
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_ecb16461b0dd533060196113888a5c6ec650db18.jar" />
     </item>
     <item
         is-multidex="false"
@@ -44,16 +44,16 @@
         optimize="true"
         revision="23.0.1"
         sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_e730e5bb86be9df7eec99a074a2740027e9bc2df.jar" />
+        <dex dex="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_e730e5bb86be9df7eec99a074a2740027e9bc2df.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jar="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
-        <dex dex="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_a5a8a2976e3c48596097a5713454cb9056b12974.jar" />
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_10cbfb7dc084da5c4ad99a780461c9a875c7f933.jar" />
     </item>
     <item
         is-multidex="false"
@@ -62,25 +62,25 @@
         optimize="true"
         revision="23.0.1"
         sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_56d77646b35cf4a4d8d57c1704861e535e7ef4fd.jar" />
+        <dex dex="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_56d77646b35cf4a4d8d57c1704861e535e7ef4fd.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jar="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
-        <dex dex="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_da89e082330a244eca43db385b8f32ddf886a184.jar" />
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_81813d4032347cd1916fe690639c3fee701b2481.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jar="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_6cd0ddf585b92a6f0eb7fe1a8156926c92134f4c.jar" />
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_7e20b85e3fcb0e3898a73b47d02ce4a5722b4c5f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -89,7 +89,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="55615fa2582424e38705487d1d3969af8554f637">
-        <dex dex="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2_4eb29f538ba8d6691503884d414d8c29ce42f9bc.jar" />
+        <dex dex="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2_4eb29f538ba8d6691503884d414d8c29ce42f9bc.jar" />
     </item>
     <item
         is-multidex="false"
@@ -98,16 +98,16 @@
         optimize="true"
         revision="23.0.1"
         sha1="53fdf22be10c9d426ec63431c7342895bc642261">
-        <dex dex="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.9.1_2f9b3f4c8f6eabfdd5ebbed5c6a3262e6aeeff03.jar" />
+        <dex dex="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.9.1_2f9b3f4c8f6eabfdd5ebbed5c6a3262e6aeeff03.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jar="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/exploded-aar/com.rmtheis/tess-two/6.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_b2021e3ae68ec11d8bca4e03ee811d0f303979c0.jar" />
+        sha1="2e1e80e5618ce24efaf884fec3cf6133ba2d6555">
+        <dex dex="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/pre-dexed/debug/com.rmtheis-tess-two-6.2.0_b35daf5331091f5f4898641347dc895e950d40bc.jar" />
     </item>
     <item
         is-multidex="false"
@@ -116,7 +116,25 @@
         optimize="true"
         revision="23.0.1"
         sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_6ffd58bbbb620ca99dad727374617f0c644c304c.jar" />
+        <dex dex="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_6ffd58bbbb620ca99dad727374617f0c644c304c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_716a76ab6299eb6f96804b46e4fd45cad40737bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_c94f35186b28bd0b010f74b0fec510d2c90e1a33.jar" />
     </item>
     <item
         is-multidex="false"
@@ -125,25 +143,16 @@
         optimize="true"
         revision="23.0.1"
         sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_240d2048ab0d92a10197d572f94e95c178a1ca6f.jar" />
+        <dex dex="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_240d2048ab0d92a10197d572f94e95c178a1ca6f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jar="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.2/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
-        <dex dex="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_3abe1874c48773fd1e32a8be67354f00011e7a35.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.2/jars/libs/infer-annotations-4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_21002ff71a559b67f23305691b3791f39e35f55d.jar" />
+        sha1="576b5113887747a7592650ae14d980e1c57983c4">
+        <dex dex="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.47.2_c8bcc40b2716b1785bbcd6887a1465362c62f6d4.jar" />
     </item>
     <item
         is-multidex="false"
@@ -152,7 +161,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_8bd76c00049cdc9347c0bea52a8d6736b77aaf18.jar" />
+        <dex dex="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_8bd76c00049cdc9347c0bea52a8d6736b77aaf18.jar" />
     </item>
     <item
         is-multidex="false"
@@ -161,34 +170,43 @@
         optimize="true"
         revision="23.0.1"
         sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_74b3d37a4d54af364973d60b5d9ae66d0bc5111a.jar" />
+        <dex dex="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_74b3d37a4d54af364973d60b5d9ae66d0bc5111a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_d9573c5bc49862e854d3dc4a346cb247affa7f5a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="576b5113887747a7592650ae14d980e1c57983c4">
-        <dex dex="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.47.2_b15e455573d2177494f027880cd221b1d7bfafa6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jar="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
-        <dex dex="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_7a87fb7161a4f6307f14ba3b5566b05c51f871f9.jar" />
+        <dex dex="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_e61ddc47d8f6f3eea04848df80faaccefeb4d463.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_9b699a985323bac96ccd7812db2a84cbd9e24529.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.2/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_50dfea5df02c720a4f856e4faddeb304b1ec9ad8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_ea5f5d13e3dc21d099a70ab4f7d906f34abe9f71.jar" />
     </item>
     <item
         is-multidex="false"
@@ -197,25 +215,25 @@
         optimize="true"
         revision="23.0.1"
         sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
-        <dex dex="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_47020171a924962428a20d7ec5fc1c218b8568e5.jar" />
+        <dex dex="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_47020171a924962428a20d7ec5fc1c218b8568e5.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jar="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/exploded-aar/mtg/react-native-camera/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
-        <dex dex="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_04140ef205f0706a8660fd8d6776ea14c9709276.jar" />
+        sha1="a9161da891dd3c9ae10d21b1a1f9f1b0ff683cfe">
+        <dex dex="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/pre-dexed/debug/mtg-react-native-camera-unspecified_b6fd10a06ea5c6426cca9114dce6569e9bc7ffa4.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jar="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_33fef195bf93286a01c5cd630b69d40fcf4624ca.jar" />
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_837d37410f7ce68eebb72ea40b93c3567a8cc1a2.jar" />
     </item>
     <item
         is-multidex="false"
@@ -224,7 +242,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/matthewrandle/Documents/Projects/mtg/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_38a563a24aeab1c546bd529d18ca8cdcdd0e491f.jar" />
+        <dex dex="/Users/matthewrandle/Documents/Projects/test-app/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_38a563a24aeab1c546bd529d18ca8cdcdd0e491f.jar" />
     </item>
 
 </items>
