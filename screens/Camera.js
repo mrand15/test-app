@@ -23,6 +23,7 @@ export default class CameraPage extends React.Component {
         aspect={Camera.constants.Aspect.fill}
         playSoundOnCapture={false}
         captureQuality={Camera.constants.CaptureQuality['1080p']}
+        captureTarget={Camera.constants.CaptureTarget.disk}
       >
         <View style={styles.capture}>
           <TouchableOpacity onPress={this.takePicture.bind(this)}>

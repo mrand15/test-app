@@ -15,6 +15,7 @@ export default class ResultsPage extends React.Component {
 
   componentDidMount () {
     const { imagePath } = this.props.navigation.state.params;
+    debugger
     RNTesseractOcr.startOcr(imagePath.replace('file://',''), 'LANG_ENGLISH')
     .then((result) => {
       this.setState({ ocrResult: result });
