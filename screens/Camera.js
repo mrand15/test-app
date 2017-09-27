@@ -1,5 +1,5 @@
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
 import Camera from 'react-native-camera';
 
 export default class CameraPage extends React.Component {
@@ -8,7 +8,7 @@ export default class CameraPage extends React.Component {
     const options = {};
     this.camera.capture({metadata: options})
       .then((data) => {
-        console.log(data);
+        this.props.navigation.navigate('results',{imagePath: data.path});
       }).catch(err => console.error(err));
   } 
 
@@ -20,8 +20,15 @@ export default class CameraPage extends React.Component {
           this.camera = cam;
         }}
         style={styles.preview}
-        aspect={Camera.constants.Aspect.fill}>
-        <Text style={styles.capture} onPress={this.takePicture.bind(this)}>[CAPTURE]</Text>
+        aspect={Camera.constants.Aspect.fill}
+        playSoundOnCapture={false}
+        captureQuality={Camera.constants.CaptureQuality['1080p']}
+      >
+        <View style={styles.capture}>
+          <TouchableOpacity onPress={this.takePicture.bind(this)}>
+            <Text style={{ color: 'white' }}>[CAPTURE]</Text>
+          </TouchableOpacity>
+        </View>
       </Camera>
     </View>
     );
@@ -39,6 +46,15 @@ const styles = StyleSheet.create({
   preview: {
     height: '100%',
     width: '100%',
+  },
+  capture: {
+    position: 'absolute',
+    bottom: 50,
+    width: '100%',
+    justifyContent: 'center',
+    margin: 'auto',
+    flex: 1,
+    flexDirection: 'row',
   },
 });
 

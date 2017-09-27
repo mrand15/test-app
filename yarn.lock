@@ -3864,6 +3864,10 @@ react-native-tab-view@^0.0.65:
   dependencies:
     prop-types "^15.5.8"
 
+react-native-tesseract-ocr@^1.0.8:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/react-native-tesseract-ocr/-/react-native-tesseract-ocr-1.0.8.tgz#f2956124028ebf9a8a371a6ed20489e4b1591e9b"
+
 react-native@^0.47.0:
   version "0.47.2"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.47.2.tgz#5e55cd84e4947123c86d36ea6f95ab9ed2d0cb19"
